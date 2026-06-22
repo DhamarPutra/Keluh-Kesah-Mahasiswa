@@ -1,3 +1,3 @@
-WIB: Monday, 22 June 2026 05.18.10 UTC
-WITA: Monday, 22 June 2026 06.18.10 UTC
-WIT: Monday, 22 June 2026 07.18.10 UTC
+WIB: Monday, 22 June 2026 07.16.45 UTC
+WITA: Monday, 22 June 2026 08.16.45 UTC
+WIT: Monday, 22 June 2026 09.16.45 UTC
